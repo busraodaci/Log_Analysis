@@ -1,5 +1,6 @@
 # Log_Analysis
-Log Analysis Project
+
+- Log Analysis Project
 
 This project contains application's logs and WorkPhase data. The goal of the project is analyzing and understanding the application's raw logs and answering the question.
 
@@ -23,7 +24,7 @@ With this task you are given two documents:
 *	Positive outcome: PRODUCT_WORK_DONE
 *	Negative outcome: ABORTING
 
-##Additional information:
+## Additional information:
 *	Factory operates in shifts which start from 7:30 and 19:30.
 *	Factory is in Tallinn, Estonia.
 *	Cycle time – time spent on each product
